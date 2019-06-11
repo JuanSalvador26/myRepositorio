@@ -1,2 +1,4 @@
 # myRepositorio
-practica
+Hola 
+Juan Salvador
+Bienvenido
